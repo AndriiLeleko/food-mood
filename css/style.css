@@ -435,7 +435,7 @@ h6 {
 }
 
 .no-webp .main-section{
-  background: url(../img/header/background.png) center no-repeat; }
+  background: url(../img/header/background.png) center / cover no-repeat; }
 
 .main-section {
   background-size: cover;
