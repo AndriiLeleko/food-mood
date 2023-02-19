@@ -435,7 +435,7 @@ h6 {
 }
 
 .no-webp .main-section{
-  background: url(../img/header/background.png) cover no-repeat; }
+  background: url(../img/header/background.png) center/cover no-repeat; }
 
 .main-section {
   /* .main-section__container */
@@ -2658,4 +2658,4 @@ h6 {
   }
 }
 
-.webp .main-section{ background: url(../img/header/background.webp) cover no-repeat; }
+.webp .main-section{ background: url(../img/header/background.webp) center/cover no-repeat; }
