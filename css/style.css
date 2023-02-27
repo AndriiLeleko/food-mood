@@ -750,6 +750,8 @@ h6 {
 }
 
 .slider-outlets {
+  -ms-touch-action: pan-y;
+      touch-action: pan-y;
   /* .slider-outlets__wrapper */
   /* .slider-outlets__slide */
   /* .slider-outlets__link */
@@ -985,6 +987,8 @@ h6 {
 }
 
 .slider-our-team {
+  -ms-touch-action: pan-y;
+      touch-action: pan-y;
   /* .slider-our-team__wrapper */
   /* .slider-our-team__slide */
   /* .slider-our-team__link */
